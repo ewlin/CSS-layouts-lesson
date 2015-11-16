@@ -1,0 +1,20 @@
+div {
+      border: 1px dashed green; 
+      text-align: center;
+      margin-bottom: 5px;
+      width: 30%;
+      margin: auto;
+}
+
+h2 {
+  border: 2px solid;
+}
+
+#sad {
+  border: 2px solid lightblue;
+}
+
+
+#angry {
+  border: 3px dotted red;
+}
