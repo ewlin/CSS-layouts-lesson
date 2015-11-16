@@ -1,20 +1,10 @@
 div {
-      border: 1px dashed green; 
-      text-align: center;
-      margin-bottom: 5px;
-      width: 30%;
-      margin: auto;
+      border: 4px dashed green; 
 }
 
-h2 {
-  border: 2px solid;
-}
-
-#sad {
-  border: 2px solid lightblue;
+h1 {
+    margin-bottom: 0px;
 }
 
 
-#angry {
-  border: 3px dotted red;
-}
+
