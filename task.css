@@ -1,22 +1,45 @@
 div {
-      border: 3px dashed green; 
-      text-align: center;
-      margin-bottom: 5px;
-      width: 30%;
-      margin: auto;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 90px;
+}
+
+
+.single {
+    width: 33.3%;
 }
 
 h2 {
-  border: 2px solid;
+    border: 2px solid;
 }
-
 
 
 #sad {
-  border: 2px solid lightblue;
+    border: 2px solid lightblue;
 }
 
-
 #angry {
-  border: 3px dotted red;
+    border: 3px dotted red;
+}
+
+#fear {
+    border: 3px dashed green; 
+}
+
+.floats {
+    width: 33.3%;
+    box-sizing: border-box;
+    border: 2px solid orange;
+}
+
+#sadness {
+    float: left;
+}
+
+#anger {
+    float: left;
+}
+
+#fearful {
+    float: right;
 }
